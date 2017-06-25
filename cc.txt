@@ -1,2 +1,1 @@
 1	src加载文件，但会暂停其他文件的下载；
-	href并行下载资源，不会停止对当前文档的处理blur、focus、load、unload、onmouseenter onmouseleave
